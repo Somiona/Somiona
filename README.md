@@ -16,7 +16,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.somiona.com/api?username=somiona&theme=dracula">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubstats.somiona.com/api?username=somiona&theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubstats.somiona.com/api?username=somiona">
     <img src="https://githubstats.somiona.com/api?username=somiona" alt="Somiona's GitHub stats" />
   </picture>
 
