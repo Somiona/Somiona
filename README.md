@@ -11,6 +11,7 @@
 - 🎮 Factory Games / Minecraft 
 - 😭 Spend too much time on Math, I need more coding 
 - ❤️ PM Welcome
+- 🏳️‍⚧️ Striving 🤞
 
 ![Somiona's GitHub stats](https://githubstats.somiona.com/api?username=somiona)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Somiona&theme=catppuccin-latte&mode=weekly)](https://git.io/streak-stats)
@@ -21,7 +22,3 @@
 [![DevOP Stack](https://skillicons.dev/icons?i=cloudflare,vercel,netlify,nginx,docker&theme=light)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=blender,matlab,godot,github,git,debian,xd,vscode&theme=light)](https://skillicons.dev)
-
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
