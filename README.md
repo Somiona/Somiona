@@ -13,7 +13,7 @@
 - ❤️ PM Welcome
 - 🏳️‍⚧️ Striving 🤞
 
-<div align="center" style="display: flex;">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.somiona.com/api?username=somiona&theme=dracula">
     <source media="(prefers-color-scheme: light)" srcset="https://githubstats.somiona.com/api?username=somiona&theme=dracula">
@@ -33,3 +33,9 @@
 [![DevOP Stack](https://skillicons.dev/icons?i=cloudflare,vercel,netlify,nginx,docker&theme=light)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=blender,matlab,godot,github,git,debian,xd,vscode&theme=light)](https://skillicons.dev)
+
+---
+
+![Chefe](https://raw.githubusercontent.com/Somiona/Somiona/main/chefe.jpg)
+
+<p align="center"><i>みこになりたいという夢</i></p>
