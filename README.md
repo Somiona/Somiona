@@ -18,9 +18,8 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.somiona.com/api?username=somiona&theme=dracula">
     <source media="(prefers-color-scheme: light)" srcset="https://githubstats.somiona.com/api?username=somiona&bg_color=F6F2EE&border_color=F2E9E1&title_color=A5222F&text_color=396847&icon_color=396847">
     <img src="https://githubstats.somiona.com/api?username=somiona&bg_color=F6F2EE&border_color=F2E9E1&title_color=A5222F&text_color=396847&icon_color=396847" alt="Somiona's GitHub stats" />
-  </picture>
-
-  <picture>
+  </picture><!-- Try the comment hack to remove the space between pictures.
+  --><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Somiona&theme=material-palenight&card_width=450&card_height=193">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Somiona&theme=dayfox&card_width=450&card_height=193">
     <img src="https://streak-stats.demolab.com?user=Somiona&theme=dayfox&card_width=450&card_height=193" alt="GitHub Streak" />
