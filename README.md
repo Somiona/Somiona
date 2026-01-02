@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Somiona👋, or call me by my fursona, Chefe🦊
 
-<!--
-**Somiona/Somiona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Somiona's GitHub stats](https://githubstats.somiona.com/api?username=somiona)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Somiona&theme=catppuccin-latte&mode=weekly)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+- 💻 Full Stack Developer 
+- 📚 LLM / CG w/ DL / ML
+- 🎮 Factory Games / Minecraft 
+- 😭 Spend too much time on Math, I need more coding 
+- ❤️ PM Welcome
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=python,c,rust,typescript,pytorch,sklearn,react,vite,nodejs,nextjs,sass,tailwind,jest,django,fastapi,supabase,sqlite,postgresql,redis&theme=light)](https://skillicons.dev)
+
+[![DevOP Stack](https://skillicons.dev/icons?i=cloudflare,vercel,netlify,nginx,docker&theme=light)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=blender,matlab,godot,github,git,debian,xd,vscode&theme=light)](https://skillicons.dev)
