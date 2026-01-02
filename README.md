@@ -28,20 +28,12 @@
 
 ## Skills & Frameworks
 <picture>
-  <source 
-    media="(max-width: 600px) and (prefers-color-scheme: dark)" 
-    srcset="https://skillicons.dev/icons?i=python%2Cc%2Crust%2Ctypescript%2Cpytorch%2Csklearn%2Creact%2Cvite%2Cnodejs%2Cnextjs%2Csass%2Ctailwind%2Cjest%2Cdjango%2Cfastapi%2Csupabase%2Csqlite%2Cpostgresql%2Credis%2Ccloudflare%2Cvercel%2Cnetlify%2Cnginx%2Cdocker%2Cblender%2Cmatlab%2Cgodot%2Cgithub%2Cgit%2Cdebian%2Cxd%2Cvscode&theme=dark&perline=8">
-  
-  <source 
-    media="(max-width: 600px)" 
-    srcset="https://skillicons.dev/icons?i=python%2Cc%2Crust%2Ctypescript%2Cpytorch%2Csklearn%2Creact%2Cvite%2Cnodejs%2Cnextjs%2Csass%2Ctailwind%2Cjest%2Cdjango%2Cfastapi%2Csupabase%2Csqlite%2Cpostgresql%2Credis%2Ccloudflare%2Cvercel%2Cnetlify%2Cnginx%2Cdocker%2Cblender%2Cmatlab%2Cgodot%2Cgithub%2Cgit%2Cdebian%2Cxd%2Cvscode&theme=light&perline=8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cc%2Crust%2Ctypescript%2Cpytorch%2Csklearn%2Creact%2Cvite%2Cnodejs%2Cnextjs%2Csass%2Ctailwind%2Cjest%2Cdjango%2Cfastapi%2Csupabase%2Csqlite%2Cpostgresql%2Credis%2Ccloudflare%2Cvercel%2Cnetlify%2Cnginx%2Cdocker%2Cblender%2Cmatlab%2Cgodot%2Cgithub%2Cgit%2Cdebian%2Cxd%2Cvscode&theme=dark&perline=8">
 
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://skillicons.dev/icons?i=python%2Cc%2Crust%2Ctypescript%2Cpytorch%2Csklearn%2Creact%2Cvite%2Cnodejs%2Cnextjs%2Csass%2Ctailwind%2Cjest%2Cdjango%2Cfastapi%2Csupabase%2Csqlite%2Cpostgresql%2Credis%2Ccloudflare%2Cvercel%2Cnetlify%2Cnginx%2Cdocker%2Cblender%2Cmatlab%2Cgodot%2Cgithub%2Cgit%2Cdebian%2Cxd%2Cvscode&theme=dark&perline=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cc%2Crust%2Ctypescript%2Cpytorch%2Csklearn%2Creact%2Cvite%2Cnodejs%2Cnextjs%2Csass%2Ctailwind%2Cjest%2Cdjango%2Cfastapi%2Csupabase%2Csqlite%2Cpostgresql%2Credis%2Ccloudflare%2Cvercel%2Cnetlify%2Cnginx%2Cdocker%2Cblender%2Cmatlab%2Cgodot%2Cgithub%2Cgit%2Cdebian%2Cxd%2Cvscode&theme=light&perline=8">
 
   <img 
-    src="https://skillicons.dev/icons?i=python,c,rust,typescript,pytorch,sklearn,react,vite,nodejs,nextjs,sass,tailwind,jest,django,fastapi,supabase,sqlite,postgresql,redis,cloudflare,vercel,netlify,nginx,docker,blender,matlab,godot,github,git,debian,xd,vscode&theme=light&perline=16" 
+    src="https://skillicons.dev/icons?i=python,c,rust,typescript,pytorch,sklearn,react,vite,nodejs,nextjs,sass,tailwind,jest,django,fastapi,supabase,sqlite,postgresql,redis,cloudflare,vercel,netlify,nginx,docker,blender,matlab,godot,github,git,debian,xd,vscode&theme=light&perline=8" 
     alt="My Skills">
 </picture>
 
