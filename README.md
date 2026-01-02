@@ -16,8 +16,8 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.somiona.com/api?username=somiona&theme=dracula">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubstats.somiona.com/api?username=somiona">
-    <img src="https://githubstats.somiona.com/api?username=somiona" alt="Somiona's GitHub stats" />
+    <source media="(prefers-color-scheme: light)" srcset="https://githubstats.somiona.com/api?username=somiona&bg_color=F6F2EE&border_color=F2E9E1&title_color=A5222F&text_color=396847&icon_color=396847">
+    <img src="https://githubstats.somiona.com/api?username=somiona&bg_color=F6F2EE&border_color=F2E9E1&title_color=A5222F&text_color=396847&icon_color=396847" alt="Somiona's GitHub stats" />
   </picture>
 
   <picture>
@@ -28,11 +28,23 @@
 </div>
 
 ## Skills & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=python,c,rust,typescript,pytorch,sklearn,react,vite,nodejs,nextjs,sass,tailwind,jest,django,fastapi,supabase,sqlite,postgresql,redis&theme=light)](https://skillicons.dev)
+<picture>
+  <source 
+    media="(max-width: 600px) and (prefers-color-scheme: dark)" 
+    srcset="https://skillicons.dev/icons?i=python%2Cc%2Crust%2Ctypescript%2Cpytorch%2Csklearn%2Creact%2Cvite%2Cnodejs%2Cnextjs%2Csass%2Ctailwind%2Cjest%2Cdjango%2Cfastapi%2Csupabase%2Csqlite%2Cpostgresql%2Credis%2Ccloudflare%2Cvercel%2Cnetlify%2Cnginx%2Cdocker%2Cblender%2Cmatlab%2Cgodot%2Cgithub%2Cgit%2Cdebian%2Cxd%2Cvscode&theme=dark&perline=8">
+  
+  <source 
+    media="(max-width: 600px)" 
+    srcset="https://skillicons.dev/icons?i=python%2Cc%2Crust%2Ctypescript%2Cpytorch%2Csklearn%2Creact%2Cvite%2Cnodejs%2Cnextjs%2Csass%2Ctailwind%2Cjest%2Cdjango%2Cfastapi%2Csupabase%2Csqlite%2Cpostgresql%2Credis%2Ccloudflare%2Cvercel%2Cnetlify%2Cnginx%2Cdocker%2Cblender%2Cmatlab%2Cgodot%2Cgithub%2Cgit%2Cdebian%2Cxd%2Cvscode&theme=light&perline=8">
 
-[![DevOP Stack](https://skillicons.dev/icons?i=cloudflare,vercel,netlify,nginx,docker&theme=light)](https://skillicons.dev)
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://skillicons.dev/icons?i=python%2Cc%2Crust%2Ctypescript%2Cpytorch%2Csklearn%2Creact%2Cvite%2Cnodejs%2Cnextjs%2Csass%2Ctailwind%2Cjest%2Cdjango%2Cfastapi%2Csupabase%2Csqlite%2Cpostgresql%2Credis%2Ccloudflare%2Cvercel%2Cnetlify%2Cnginx%2Cdocker%2Cblender%2Cmatlab%2Cgodot%2Cgithub%2Cgit%2Cdebian%2Cxd%2Cvscode&theme=dark&perline=16">
 
-[![Tools](https://skillicons.dev/icons?i=blender,matlab,godot,github,git,debian,xd,vscode&theme=light)](https://skillicons.dev)
+  <img 
+    src="https://skillicons.dev/icons?i=python,c,rust,typescript,pytorch,sklearn,react,vite,nodejs,nextjs,sass,tailwind,jest,django,fastapi,supabase,sqlite,postgresql,redis,cloudflare,vercel,netlify,nginx,docker,blender,matlab,godot,github,git,debian,xd,vscode&theme=light&perline=16" 
+    alt="My Skills">
+</picture>
 
 ---
 
