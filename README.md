@@ -13,21 +13,19 @@
 - ❤️ PM Welcome
 - 🏳️‍⚧️ Striving 🤞
 
+<div align="center" style="display: flex;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.somiona.com/api?username=somiona&theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubstats.somiona.com/api?username=somiona&theme=dracula">
+    <img src="https://githubstats.somiona.com/api?username=somiona" alt="Somiona's GitHub stats" />
+  </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.somiona.com/api?username=somiona&theme=dracula">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubstats.somiona.com/api?username=somiona&theme=dracula">
-  <img src="https://githubstats.somiona.com/api?username=somiona" alt="Somiona's GitHub stats" />
-</picture>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Somiona&theme=catppuccin-latte&mode=weekly)](https://git.io/streak-stats)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Somiona&theme=material-palenight&card_width=450&card_height=193">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Somiona&theme=dayfox&card_width=450&card_height=193">
-  <img src="https://streak-stats.demolab.com?user=Somiona&theme=dayfox&card_width=450&card_height=193" alt="GitHub Streak" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Somiona&theme=material-palenight&card_width=450&card_height=193">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Somiona&theme=dayfox&card_width=450&card_height=193">
+    <img src="https://streak-stats.demolab.com?user=Somiona&theme=dayfox&card_width=450&card_height=193" alt="GitHub Streak" />
+  </picture>
+</div>
 
 ## Skills & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=python,c,rust,typescript,pytorch,sklearn,react,vite,nodejs,nextjs,sass,tailwind,jest,django,fastapi,supabase,sqlite,postgresql,redis&theme=light)](https://skillicons.dev)
