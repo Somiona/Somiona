@@ -10,7 +10,7 @@
 
 
 - Former executive member and co-founder of Unifurse Convention
-- Current tech coordinator and co-founder of FurryFur Convention
+- Current tech coordinator and co-founder of FurryFur Internet Media Ltd.
 - 💻 Full Stack Developer / AI Native Developer
 - 📚 LLM / DL / NLP
 - 🎮 Factory Games / Minecraft 
