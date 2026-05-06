@@ -1,5 +1,5 @@
 ## Hi there, I'm Somiona👋, or call me by my fursona, Chefe🦊
-
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Somiona/Somiona/output/github-contribution-grid-snake-dark.svg">
@@ -7,6 +7,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Somiona/Somiona/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+-->
 
 - Former executive member and co-founder of Unifurse Convention
 - Current tech coordinator and co-founder of FurryFur Convention
@@ -17,6 +18,7 @@
 - ❤️ PM Welcome
 - 🏳️‍⚧️ Striving 🤞
 
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Somiona&theme=material-palenight&card_width=350&card_height=194&hide_longest_streak=true">
@@ -30,6 +32,7 @@
     <img src="https://githubstats.somiona.com/api?username=somiona&bg_color=F6F2EE&border_color=F2E9E1&title_color=A5222F&text_color=396847&icon_color=396847&card_width=450" alt="Somiona's GitHub stats" />
   </picture>
 </div>
+-->
 
 ## Skills & Toolsets
 <div align="center">
