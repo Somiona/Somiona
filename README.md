@@ -12,10 +12,10 @@
 - 🐰 Former executive member and co-founder of Unifurse Convention
 - 🦊 Current tech coordinator and co-founder of FurryFur Internet Media Ltd.
 - 💻 Full Stack Developer / AI Native Developer
-- 📚 LLM / DL / NLP
-- 🎮 Factory Games / Minecraft 
+- 📚 LLM / DL / NLP / Agentic Workflow
+- 🎮 Factorio / Minecraft / Oxygen Not Included / Sephria
 - 😭 Spend too much time on Math, I need more coding 
-- ❤️ PM Welcome
+- ❤️ PM and Commission Welcome
 - 🏳️‍⚧️ Striving 🤞
 <!--
 <div align="center">
