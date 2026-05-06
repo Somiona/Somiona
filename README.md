@@ -13,7 +13,7 @@
 - 🦊 Current tech coordinator and co-founder of FurryFur Internet Media Ltd.
 - 💻 Full Stack Developer / AI Native Developer
 - 📚 LLM / DL / NLP / Agentic Workflow
-- 🎮 Factorio / Minecraft / Oxygen Not Included / Sephria
+- 🎮 Factorio / Minecraft / Oxygen Not Included / Sephiria
 - 😭 Spend too much time on Math, I need more coding 
 - ❤️ PM and Commission Welcome
 - 🏳️‍⚧️ Striving 🤞
