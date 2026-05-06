@@ -1,5 +1,5 @@
 ## Hi there, I'm Somiona👋, or call me by my fursona, Chefe🦊
-<!--
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Somiona/Somiona/output/github-contribution-grid-snake-dark.svg">
@@ -7,7 +7,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Somiona/Somiona/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
--->
+
 
 - Former executive member and co-founder of Unifurse Convention
 - Current tech coordinator and co-founder of FurryFur Convention
@@ -17,7 +17,6 @@
 - 😭 Spend too much time on Math, I need more coding 
 - ❤️ PM Welcome
 - 🏳️‍⚧️ Striving 🤞
-
 <!--
 <div align="center">
   <picture>
